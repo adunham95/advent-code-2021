@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "newDat": "node ./generateNewDay.js",
+    "newDay": "node ./generateNewDay.js",
     "day1:part1": "node ./Day_1/Part_1/index.js",
     "day1:part2": "node ./Day_1/Part_2/index.js",
     "day2:part1": "node ./Day_2/Part_1/index.js",
