@@ -10,7 +10,9 @@
     "day1:part1": "node ./Day_1/Part_1/index.js",
     "day1:part2": "node ./Day_1/Part_2/index.js",
     "day2:part1": "node ./Day_2/Part_1/index.js",
-    "day2:part2": "node ./Day_2/Part_2/index.js"
+    "day2:part2": "node ./Day_2/Part_2/index.js",
+    "day3:part1": "node ./Day_3/Part_1/index.js",
+    "day3:part2": "node ./Day_3/Part_2/index.js"
   },
   "repository": {
     "type": "git",
